@@ -1,0 +1,5 @@
+<div class="mugshot" markdown="1">
+![{{ include.alt }}]({{ site.baseurl }}/assets/images/faces/{{ include.img }})
+
+{{ include.caption | default: include.alt }}
+</div>

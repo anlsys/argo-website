@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Overview"
+    url: /overview/
+  - title: "<em>For Developers</em>"
+    url: /devel/
+  - title: "Publications"
+    url: /publications/
+  - title: "Team"
+    url: /team/

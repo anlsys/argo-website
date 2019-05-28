@@ -1,0 +1,134 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// Disable the title since we have a logo.
+.site-title {
+    display: none !important;
+// Use a larger font for top-left title.
+//    font-size: larger;
+}
+
+// We use wide, single column, so we don't need those huge margins...
+.page, .breadcrumbs ol {
+    width: 100%;
+}
+
+// Add a drop shadow to the three images on the splash page.
+.archive__item-teaser {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+
+    // Doesn't work because the button extends over the image.
+    //&:hover {
+    //    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8);
+    //}
+}
+
+// Reduce the excessive spacing between content and footer.
+.page__footer {
+    margin-top: 1em;
+}
+
+// Eliminate a bar from underneath some h2 headers.
+.noborder h2 {
+    border: 0;
+}
+
+// Eliminate a bar and margin from underneath the custom feature row.
+.wrapper-tight {
+    border: 0;
+    margin-bottom: 0;
+}
+
+// Eliminate the RSS feed from the bottom of each page.
+.page__footer-follow {
+    display: none;
+}
+
+// Eliminate the ugly default accessibility focus.
+%tab-focus {
+  outline: thin dotted $focus-color;
+}
+
+// Mugshots for the Team page.  Need custom formatting to get the captions, etc.
+.mugshot {
+    text-align: center;
+    float: left;
+    margin: 10px;
+
+    img {
+        width: 200px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+        border-radius: $border-radius;
+        margin-bottom: 8px;
+    }
+
+    p {
+        margin: 0;
+        font-size: smaller;
+    }
+}
+
+// Publication.  Need custom formatting to get the thumb on the left.
+.pub {
+    p {
+        clear: left;
+    }
+
+    img {
+        height: 100px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.35);
+        float: left;
+        margin-right: 10px;
+        margin-bottom: 20px;
+
+        &:hover {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5) !important;
+        }
+    }
+
+    .landscape {
+	width: 100px;
+	height: auto;
+    }
+}
+
+// Generic shadow for images.
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+    border-radius: $border-radius;
+}
+
+// Generic widths for images; they become full-width on narrow viewports.
+@include breakpoint($small) {
+    .responsive-width-60 {
+	width: 60%;
+    }
+
+    .responsive-width-50 {
+	width: 50%;
+    }
+
+    .responsive-width-40 {
+	width: 40%;
+    }
+
+    .responsive-width-30 {
+	width: 30%;
+    }
+
+    .responsive-width-20 {
+	width: 20%;
+    }
+}
+
+// Generic smaller font for the sponsorship footer on the front page,
+// team member names, author names in subpages, etc.
+.smaller {
+    font-size: smaller !important;
+}

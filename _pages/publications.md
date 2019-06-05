@@ -176,6 +176,13 @@ DOI: [10.1109/IC2E.2015.78](https://doi.org/10.1109/IC2E.2015.78),
 Posters
 -------
 
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-nvmw-mcfadden.png)]({{ site.baseurl }}/publications/2019-nvmw-mcfadden.pdf)
+Marty McFadden, Keita Iwabuchi, Eric Green, Roger Pearce, Maya Gokhale, Kai
+Wu, Dong Li:
+_UMap: A user level memory mapping library_.
+10th Annual Non-Volatile Memories Workshop (NVMW 2019), March 2019.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-nvmw-mcfadden.pdf)&nbsp;(abstract PDF, 2&nbsp;pages, 188&nbsp;KiB)
+
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-argo-overview.png)]({{ site.baseurl }}/publications/2019-argo-overview.pdf)
 Pete Beckman, Sridutt Bhalachandra, Nicolas Denoyelle, Rinku Gupta, Kamil
 Iskra, Florence Monna, Swann Perarnau, Valentin Reis, John Tramm, Brice

@@ -28,4 +28,5 @@ Gitlab](https://xgitlab.cels.anl.gov/argo)
 [libnrm](https://xgitlab.cels.anl.gov/argo/libnrm),
 [containers](https://xgitlab.cels.anl.gov/argo/containers),
 [cuttr](https://xgitlab.cels.anl.gov/argo/cuttr))
+* [<i class="fas fa-book"></i> Documentation on Read the Docs](https://nrm.readthedocs.io/en/latest/)
 * [<i class="fas fa-bug"></i> Issues database on custom Gitlab](https://xgitlab.cels.anl.gov/argo/nrm/issues)

@@ -35,6 +35,13 @@ generate an edge or adjacency list representation of graphs from raw data
 of interest for community detection.
 <br clear="both" />
 
+---
+
+More information on UMap can be found in its [documentation on Read the
+Docs](https://llnl-umap.readthedocs.io/en/develop/).  For a complete list of
+UMap-related resources, check the [For Developers]({{ site.baseurl
+}}/devel/#umap) page.
+
 _Maya Gokhale, Marty McFadden, Roger Pearce, Eric Green, Keita Iwabuchi
 (LLNL); Kai Wu, Dong Li (UC Merced and LLNL)_
 {: .smaller}

@@ -28,5 +28,7 @@ to leverage some of the tools we have developed; parts of the Argo power
 management infrastructure will also serve as first prototypes.
 <br clear="both" />
 
+---
+
 _Stephanie Brink, Anniruddha Marathe, Tapasya Patki, Barry Rountree (LLNL)_
 {: .smaller}

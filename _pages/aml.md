@@ -42,5 +42,12 @@ prefetcher achieves performance equal to or better than that of the optimal
 static allocation on inputs that exceed the capacity of MCDRAM.
 <br clear="both" />
 
+---
+
+More information on AML can be found in its [documentation on Read the
+Docs](https://argo-aml.readthedocs.io/en/latest/).  For a complete list of
+AML-related resources, check the [For Developers]({{ site.baseurl
+}}/devel/#aml) page.
+
 _Nicolas Denoyelle, Swann Perarnau, Brice Videau (ANL)_
 {: .smaller}

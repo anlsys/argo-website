@@ -82,6 +82,13 @@ application phases to dynamically adapt power, showing an energy reduction
 of up to 15%.
 <br clear="both" />
 
+---
+
+More information on NRM can be found in its [documentation on Read the
+Docs](https://nrm.readthedocs.io/en/latest/).  For a complete list of
+NRM-related resources, check the [For Developers]({{ site.baseurl
+}}/devel/#nrm) page.
+
 _Pete Beckman, Kamil Iskra, Florence Monna, Swann Perarnau, Valentin Reis,
 Kazutomo Yoshii (ANL)_
 {: .smaller .clear}

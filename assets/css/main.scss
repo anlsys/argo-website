@@ -14,6 +14,15 @@
 //    font-size: larger;
 }
 
+.site-logo img {
+    border-radius: $border-radius;
+    box-shadow: 0 3px 6px 0 #666;
+
+    &:hover {
+        box-shadow: 0 3px 6px 0 #333 !important;
+    }
+}
+
 // We use wide, single column, so we don't need those huge margins...
 .page, .breadcrumbs ol {
     width: 100%;
@@ -52,7 +61,7 @@
 
 // Eliminate the ugly default accessibility focus.
 %tab-focus {
-  outline: thin dotted $focus-color;
+    outline: thin dotted $focus-color;
 }
 
 // Mugshots for the Team page.  Need custom formatting to get the captions, etc.
@@ -62,7 +71,7 @@
     margin: 10px;
 
     img {
-        width: 200px;
+        height: 200px;
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
         border-radius: $border-radius;
         margin-bottom: 8px;
@@ -81,15 +90,16 @@
     }
 
     img {
+        border-radius: $border-radius;
         height: 100px;
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.35);
         float: left;
         margin-right: 10px;
         margin-bottom: 20px;
+    }
 
-        &:hover {
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5) !important;
-        }
+    a > img:hover {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5) !important;
     }
 
     .landscape {

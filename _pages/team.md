@@ -15,7 +15,7 @@ permalink: /team/
 
 {% include mugshot img="iskra.jpg" alt="Kamil Iskra" %}
 
-{% include mugshot img="marathe.jpg" alt="Anniruddha Marathe" %}
+{% include mugshot img="marathe.jpg" alt="Aniruddha Marathe" %}
 
 {% include mugshot img="mcfadden.jpg" alt="Marty McFadden" %}
 

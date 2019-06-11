@@ -30,5 +30,5 @@ management infrastructure will also serve as first prototypes.
 
 ---
 
-_Stephanie Brink, Anniruddha Marathe, Tapasya Patki, Barry Rountree (LLNL)_
+_Stephanie Brink, Aniruddha Marathe, Tapasya Patki, Barry Rountree (LLNL)_
 {: .smaller}

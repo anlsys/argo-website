@@ -11,6 +11,8 @@ permalink: /team/
 
 {% include mugshot img="gokhale.jpg" alt="Maya Gokhale" caption="Maya Gokhale (co-PI)" %}
 
+{% include mugshot img="green.jpg" alt="Eric Green" %}
+
 {% include mugshot img="gupta.jpg" alt="Rinku Gupta" %}
 
 {% include mugshot img="iskra.jpg" alt="Kamil Iskra" %}
@@ -30,6 +32,8 @@ permalink: /team/
 {% include mugshot img="reis.jpg" alt="Valentin Reis" %}
 
 {% include mugshot img="rountree.jpg" alt="Barry Rountree" %}
+
+{% include mugshot img="tramm.jpg" alt="John Tramm" %}
 
 {% include mugshot img="yoshii.jpg" alt="Kazutomo Yoshii" %}
 

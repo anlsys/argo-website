@@ -20,6 +20,8 @@ permalink: /devel/
 
 ### PowerStack
 
+* [<i class="fas fa-code-branch"></i> Source code repository on Github](https://github.com/tpatki/power-slurm)
+
 ### NRM
 
 * [<i class="fas fa-code-branch"></i> Source code repositories on custom

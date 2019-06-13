@@ -14,7 +14,9 @@ permalink: /devel/
 
 * [<i class="fas fa-download"></i> **Download the 1.0.0 release**](https://github.com/LLNL/umap/archive/v1.0.0.tar.gz) (tar.gz source, 100&nbsp;KiB)
 * [<i class="fas fa-download"></i> Release archive](https://github.com/LLNL/umap/releases)
-* [<i class="fas fa-code-branch"></i> Source code repository on Github](https://github.com/LLNL/umap)
+* [<i class="fas fa-code-branch"></i> Source code repositories on Github](https://github.com/LLNL/umap)
+([umap](https://github.com/LLNL/umap),
+[umap-apps](https://github.com/LLNL/umap-apps))
 * [<i class="fas fa-book"></i> Documentation on Read the Docs](https://llnl-umap.readthedocs.io/en/develop/)
 * [<i class="fas fa-bug"></i> Issues database on Github](https://github.com/LLNL/umap/issues)
 

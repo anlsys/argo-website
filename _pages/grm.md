@@ -30,5 +30,10 @@ management infrastructure will also serve as first prototypes.
 
 ---
 
-_Stephanie Brink, Aniruddha Marathe, Tapasya Patki, Barry Rountree (LLNL)_
+For a complete list of GRM-related resources, check the [For Developers]({{
+site.baseurl }}/devel/#powerstack) page.
+
+
+_Stephanie Brink, Aniruddha Marathe, Tapasya Patki, Barry Rountree (LLNL);
+David Lowenthal (U&nbsp;Arizona)_
 {: .smaller}

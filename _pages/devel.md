@@ -12,7 +12,7 @@ permalink: /devel/
 
 ### UMap
 
-* [<i class="fas fa-download"></i> **Download the 1.0.0 release**](https://github.com/LLNL/umap/archive/v1.0.0.tar.gz) (tar.gz source, 100&nbsp;KiB)
+* [<i class="fas fa-download"></i> **Download the 2.0.0 release**](https://github.com/LLNL/umap/archive/v2.0.0.tar.gz) (tar.gz source, 99&nbsp;KiB)
 * [<i class="fas fa-download"></i> Release archive](https://github.com/LLNL/umap/releases)
 * <i class="fas fa-code-branch"></i> Source code repositories on Github:
 [umap](https://github.com/LLNL/umap),

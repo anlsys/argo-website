@@ -142,3 +142,20 @@
 .smaller {
     font-size: smaller !important;
 }
+
+.nobreak p {
+    display: inline;
+}
+
+.btn-dots {
+    color: #494e52 !important;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    padding: 0 0.5em 0 0.5em;
+    text-decoration: none !important;
+    font-weight: bold;
+
+    &:hover {
+	background-color: #ccc;
+    }
+}

@@ -45,6 +45,22 @@ runtime systems.
 
 {% include feature_row %}
 
+### News:
+
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+	  <b>{{ post.date | date_to_string: "ordinal", "US" }}</b>&nbsp;&nbsp;&nbsp;{{ post.title }}
+	  <div class="nobreak smaller">
+      {{ post.excerpt }} <a class="btn-dots" href="{{ site.baseurl }}{{ post.url }}">...</a>
+	  </div>
+    </li>
+  {% endfor %}
+</ul>
+[More News]({{ site.baseurl }}/news/){: .btn .btn--info }
+
+---
+
 Argo is a collaborative project between [Argonne National
 Laboratory](https://www.anl.gov/) and [Lawrence Livermore National
 Laboratory](https://www.llnl.gov/).  It is funded by the [U.S.  Department

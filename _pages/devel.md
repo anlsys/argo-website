@@ -57,6 +57,9 @@ permalink: /devel/
 
 ### NRM
 
+* <i class="fas fa-download"></i> **Download the 0.1.0 release**:
+[nrm]({{ site.baseurl }}/downloads/nrm-0.1.0.tar.gz) (tar.gz source, 227&nbsp;KiB),
+[libnrm]({{ site.baseurl }}/downloads/libnrm-0.1.0.tar.gz) (tar.gz source, 10&nbsp;KiB)
 * [<i class="fas fa-code-branch"></i> Source code repositories on custom
 Gitlab](https://xgitlab.cels.anl.gov/argo)
 ([nrm](https://xgitlab.cels.anl.gov/argo/nrm),

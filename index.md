@@ -52,7 +52,7 @@ runtime systems.
     <li>
 	  <b>{{ post.date | date_to_string: "ordinal", "US" }}</b>&nbsp;&nbsp;&nbsp;{{ post.title }}
 	  <div class="nobreak smaller">
-      {{ post.excerpt }} <a class="btn-dots" href="{{ site.baseurl }}{{ post.url }}">...</a>
+      {{ post.excerpt | markdownify | strip_html }} <a class="btn-dots" href="{{ site.baseurl }}{{ post.url }}">...</a>
 	  </div>
     </li>
   {% endfor %}

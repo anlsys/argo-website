@@ -18,19 +18,13 @@ _Understanding the Impact of Dynamic Power Capping on Application Progress_.
 DOI: [10.1109/IPDPS.2019.00088](https://doi.org/10.1109/IPDPS.2019.00088)
 -->
 
-<!--
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2018-icpp-benoit.png)]({{ site.baseurl }}/publications/2018-icpp-benoit.pdf)
--->
-![Thumb]({{ site.baseurl }}/assets/images/pubs/2018-icpp-benoit.png)
 Anne Benoit, Swann Perarnau, Lo&iuml;c Pottier, Yves Robert:
 _A Performance Model to Execute Workflows on High-Bandwidth-Memory
 Architectures_.
 47th International Conference on Parallel Processing (ICPP 2018), August 2018.
-DOI: [10.1145/3225058.3225110](https://doi.org/10.1145/3225058.3225110)
-<!--
-,
-[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2018-icpp-benoit.pdf)&nbsp;(preprint PDF, 10&nbsp;pages, 883&nbsp;KiB)
--->
+DOI: [10.1145/3225058.3225110](https://doi.org/10.1145/3225058.3225110),
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2018-icpp-benoit.pdf)&nbsp;(preprint PDF, 10&nbsp;pages, 827&nbsp;KiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2018-hpcc-ahmed.png)]({{ site.baseurl }}/publications/2018-hpcc-ahmed.pdf)
 Kishwar Ahmed, Jason Liu, Kazutomo Yoshii:

@@ -51,7 +51,7 @@ runtime systems.
   {% for post in site.posts limit:3 %}
     <li>
 	  <b>{{ post.date | date_to_string: "ordinal", "US" }}</b>&nbsp;&nbsp;&nbsp;{{ post.title }}
-	  <div class="nobreak smaller">
+	  <div class="smaller">
       {{ post.excerpt | markdownify | strip_html }} <a class="btn-dots" href="{{ site.baseurl }}{{ post.url }}">...</a>
 	  </div>
     </li>

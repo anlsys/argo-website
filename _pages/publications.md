@@ -181,6 +181,15 @@ DOI: [10.1109/IC2E.2015.78](https://doi.org/10.1109/IC2E.2015.78),
 Posters
 -------
 
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-isc-marathe.png){: .landscape}]({{ site.baseurl }}/publications/2019-isc-marathe.pdf)
+Aniruddha Marathe, Barry Rountree, Carsten Trinitis, Christopher Cantalupo,
+Jonathan Eastep, Josef Weidendorfer, Martin Schulz, Masaaki Kondo, Matthias
+Maiterth, Ryuichi Sakamoto, Siddhartha Jana, Stephanie Brink, Tapasya Patki:
+_The HPC PowerStack: A Community-wide Collaboration Towards an Energy
+Efficient Software Stack_.
+34th ISC High Performance Conference (ISC 2019), June 2019.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-isc-marathe.pdf)&nbsp;(PDF, 1.3&nbsp;MiB)
+
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-nvmw-mcfadden.png)]({{ site.baseurl }}/publications/2019-nvmw-mcfadden.pdf)
 Marty McFadden, Keita Iwabuchi, Eric Green, Roger Pearce, Maya Gokhale, Kai
 Wu, Dong Li:

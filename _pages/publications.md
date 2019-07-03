@@ -8,7 +8,7 @@ Papers
 ------
 
 
-![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-ipdps-ramesh.png)
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-ipdps-ramesh.png)]({{ site.baseurl }}/publications/2019-ipdps-ramesh.pdf)
 Srinivasan Ramesh, Swann Perarnau, Sridutt Bhalachandra, Allen D. Malony, Pete
 Beckman:
 _Understanding the Impact of Dynamic Power Capping on Application Progress_.
@@ -17,6 +17,7 @@ _Understanding the Impact of Dynamic Power Capping on Application Progress_.
 <!--
 DOI: [10.1109/IPDPS.2019.00088](https://doi.org/10.1109/IPDPS.2019.00088)
 -->
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-ipdps-ramesh.pdf)&nbsp;(preprint PDF, 12&nbsp;pages, 1.0&nbsp;MiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2018-icpp-benoit.png)]({{ site.baseurl }}/publications/2018-icpp-benoit.pdf)
 Anne Benoit, Swann Perarnau, Lo&iuml;c Pottier, Yves Robert:

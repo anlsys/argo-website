@@ -37,6 +37,8 @@ permalink: /team/
 
 {% include mugshot img="tramm.jpg" alt="John Tramm" %}
 
+{% include mugshot img="videau.jpg" alt="Brice Videau" %}
+
 {% include mugshot img="yoshii.jpg" alt="Kazutomo Yoshii" %}
 
 <br clear="left" />
@@ -54,8 +56,6 @@ permalink: /team/
 {% include mugshot img="schulz.jpg" alt="Martin Schulz" %}
 
 {% include mugshot img="essen.jpg" alt="Brian Van Essen" %}
-
-{% include mugshot img="videau.jpg" alt="Brice Videau" %}
 
 {% include mugshot img="zounmevo.jpg" alt="Judicael Zounmevo" %}
 

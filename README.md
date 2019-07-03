@@ -19,7 +19,9 @@ use the existing pages as examples.  Note that `responsive-width-XX` (`XX`
 equal to `20`, `30`, `40`, `50`, or `60`) classes are available to specify
 the relative width of the image on screen as a percentage of the browser
 window width.  For narrow windows, they all revert to `100%`.  More widths
-can trivially be added in `assets/css/main.css`.
+can trivially be added in `assets/css/main.css`.  To ensure high rendering
+quality, image width of around 1,200 pixels is recommended for
+`responsive-width-50`; scale accordingly up/down for other sizes.
 
 The purpose of the `<br clear="both" />` near the bottom of existing
 subpages is to provide a barrier that no included image extends beyond;
@@ -71,3 +73,14 @@ import PDF files directly, saving the initial steps.  For best results,
 start with a reasonably high resolution image and scale it down; avoid
 viewers that use subpixel rendering as it can result in moire when
 rescaling.
+
+### News
+
+Whenever there is anything newsworthy to report about the project,
+especially if it involves changes to the website, try to also provide a
+short news blurb in the `_posts` directory.  The name of the files there
+being with a date in the YYYY-MM-DD format; this date should by preference
+be the date that the reported event took place, not the date we reported
+about it (which could be weeks or even months later).  Any posts added will
+automatically be included in the news reel on the front page and in the
+news archive.

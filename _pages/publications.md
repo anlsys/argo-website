@@ -7,19 +7,25 @@ permalink: /publications/
 Papers
 ------
 
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-ipdps-ramesh.png)]({{ site.baseurl }}/publications/2019-ipdps-ramesh.pdf)
+Srinivasan Ramesh, Swann Perarnau, Sridutt Bhalachandra, Allen D. Malony, Pete
+Beckman:
+_Understanding the Impact of Dynamic Power Capping on Application Progress_.
+33rd IEEE International Parallel and Distributed Processing Symposium
+(IPDPS 2019), pp. 793--804, May 2019.
 <!--
-[![Thumb]({{ site.baseurl }}/assets/images/pubs/2018-icpp-benoit.png)]({{ site.baseurl }}/publications/2018-icpp-benoit.pdf)
+DOI: [10.1109/IPDPS.2019.00088](https://doi.org/10.1109/IPDPS.2019.00088)
 -->
-![Thumb]({{ site.baseurl }}/assets/images/pubs/2018-icpp-benoit.png)
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-ipdps-ramesh.pdf)&nbsp;(preprint PDF, 12&nbsp;pages, 1.0&nbsp;MiB)
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2018-icpp-benoit.png)]({{ site.baseurl }}/publications/2018-icpp-benoit.pdf)
 Anne Benoit, Swann Perarnau, Lo&iuml;c Pottier, Yves Robert:
 _A Performance Model to Execute Workflows on High-Bandwidth-Memory
 Architectures_.
 47th International Conference on Parallel Processing (ICPP 2018), August 2018.
-DOI: [10.1145/3225058.3225110](https://doi.org/10.1145/3225058.3225110)
-<!--
-,
-[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2018-icpp-benoit.pdf)&nbsp;(preprint PDF, 10&nbsp;pages, 883&nbsp;KiB)
--->
+DOI: [10.1145/3225058.3225110](https://doi.org/10.1145/3225058.3225110),
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2018-icpp-benoit.pdf)&nbsp;(preprint PDF, 10&nbsp;pages, 827&nbsp;KiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2018-hpcc-ahmed.png)]({{ site.baseurl }}/publications/2018-hpcc-ahmed.pdf)
 Kishwar Ahmed, Jason Liu, Kazutomo Yoshii:
@@ -175,6 +181,15 @@ DOI: [10.1109/IC2E.2015.78](https://doi.org/10.1109/IC2E.2015.78),
 
 Posters
 -------
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-isc-marathe.png){: .landscape}]({{ site.baseurl }}/publications/2019-isc-marathe.pdf)
+Aniruddha Marathe, Barry Rountree, Carsten Trinitis, Christopher Cantalupo,
+Jonathan Eastep, Josef Weidendorfer, Martin Schulz, Masaaki Kondo, Matthias
+Maiterth, Ryuichi Sakamoto, Siddhartha Jana, Stephanie Brink, Tapasya Patki:
+_The HPC PowerStack: A Community-wide Collaboration Towards an Energy
+Efficient Software Stack_.
+34th ISC High Performance Conference (ISC 2019), June 2019.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-isc-marathe.pdf)&nbsp;(PDF, 1.3&nbsp;MiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-nvmw-mcfadden.png)]({{ site.baseurl }}/publications/2019-nvmw-mcfadden.pdf)
 Marty McFadden, Keita Iwabuchi, Eric Green, Roger Pearce, Maya Gokhale, Kai

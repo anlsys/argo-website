@@ -284,6 +284,19 @@ compress_html:
 defaults:
   # _posts
   - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: false
+      related: false
+      permalink: /news/:year-:month-:day-:title/
+  # _pages
+  - scope:
       path: ""
       type: pages
     values:
@@ -293,6 +306,6 @@ defaults:
       read_time: false
       comments: # true
       share: false
-      related: true
+      related: false
 #      header:
 #        image: /assets/images/argo-spacecloud-wide.jpg

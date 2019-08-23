@@ -7,6 +7,12 @@ permalink: /publications/
 Papers
 ------
 
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-icpp-denoyelle.png)]({{ site.baseurl }}/publications/2019-icpp-denoyelle.pdf)
+Nicolas Denoyelle, Brice Goglin, Emmanuel Jeannot, Thomas Ropars,
+_Data and Thread Placement in NUMA Architectures: A Statistical Learning Approach_.
+48th International Conference on Parallel Processing (ICPP 2019), August 2019.
+DOI: [10.1145/3337821.3337893](https://doi.org/10.1145/3337821.3337893)
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-icpp-denoyelle.pdf)&nbsp;(preprint PDF, 10&nbsp;pages, 791&nbsp;KiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-ipdps-ramesh.png)]({{ site.baseurl }}/publications/2019-ipdps-ramesh.pdf)
 Srinivasan Ramesh, Swann Perarnau, Sridutt Bhalachandra, Allen D. Malony, Pete
@@ -49,6 +55,15 @@ DOI:  [10.1109/IPDPS.2018.00062](https://doi.org/10.1109/IPDPS.2018.00062)
 ,
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2018-ipdps-sakamoto.pdf)&nbsp;(preprint PDF, 10&nbsp;pages, 306&nbsp;KiB)
 -->
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2017-isav-dreher.png)]({{ site.baseurl }}/publications/2017-isav-dreher.pdf)
+Matthieu Dreher, Swann Perarnau, Tom Peterka, Kamil Iskra, Pete Beckman:
+_In Situ Workflows at Exascale: System Software to the Rescue_.
+Workshop on In Situ Infrastructures for Enabling Extreme-scale Analysis and
+Visualization (ISAV 2017), held in conjunction with SC 2017, pp. 22--26,
+November 2017.
+DOI: [10.1145/3144769.3144774](https://doi.org/10.1145/3144769.3144774)
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2017-isav-dreher.pdf)&nbsp;(preprint PDF, 5&nbsp;pages, 375&nbsp;KiB)
 
 <!--
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2017-e2sc-ellsworth.png)]({{ site.baseurl }}/publications/2017-e2sc-ellsworth.pdf)

@@ -11,8 +11,6 @@ permalink: /team/
 
 {% include mugshot img="gokhale.jpg" alt="Maya Gokhale" caption="Maya Gokhale (co-PI)" %}
 
-{% include mugshot img="green.jpg" alt="Eric Green" %}
-
 {% include mugshot img="gupta.jpg" alt="Rinku Gupta" %}
 
 {% include mugshot img="iskra.jpg" alt="Kamil Iskra" %}
@@ -21,13 +19,13 @@ permalink: /team/
 
 {% include mugshot img="marathe.jpg" alt="Aniruddha Marathe" %}
 
-{% include mugshot img="mcfadden.jpg" alt="Marty McFadden" %}
-
 {% include mugshot img="monna.jpg" alt="Florence Monna" %}
 
 {% include mugshot img="patki.jpg" alt="Tapasya Patki" caption="Tapasya Patki (co-PI)" %}
 
 {% include mugshot img="pearce.jpg" alt="Roger Pearce" %}
+
+{% include mugshot img="peng.jpg" alt="Ivy Peng" %}
 
 {% include mugshot img="perarnau.jpg" alt="Swann Perarnau" %}
 
@@ -51,7 +49,11 @@ permalink: /team/
 
 {% include mugshot img="gioiosa.jpg" alt="Roberto Gioiosa" %}
 
+{% include mugshot img="green.jpg" alt="Eric Green" %}
+
 {% include mugshot img="leon.jpg" alt="Edgar Leon" %}
+
+{% include mugshot img="mcfadden.jpg" alt="Marty McFadden" %}
 
 {% include mugshot img="schulz.jpg" alt="Martin Schulz" %}
 

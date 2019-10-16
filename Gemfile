@@ -21,3 +21,5 @@ gem "minimal-mistakes-jekyll"
 #group :jekyll_plugins do
 #  gem "jekyll-include-cache"
 #end
+
+gem "jemoji", "~> 0.11.1"

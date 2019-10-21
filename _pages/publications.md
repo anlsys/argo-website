@@ -7,11 +7,34 @@ permalink: /publications/
 Papers
 ------
 
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-mchpc-peng.png)]({{ site.baseurl }}/publications/2019-mchpc-peng.pdf)
+Ivy B. Peng, Marty McFadden, Eric Green, Keita Iwabuchi, Kai Wu, Dong Li,
+Roger Pearce, Maya B. Gokhale:
+_UMap: Enabling Application-driven Optimizations for Page Management_.
+Workshop on Memory Centric High Performance Computing (MCHPC 2019), held in
+conjunction with SC 2019, November 2019.
+<!--
+DOI: FIXME,
+-->
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-mchpc-peng.pdf)&nbsp;(preprint PDF, 8&nbsp;pages, 425&nbsp;KiB)
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-mchpc-perarnau.png)]({{ site.baseurl }}/publications/2019-mchpc-perarnau.pdf)
+Swann Perarnau, Brice Videau, Nicolas Denoyelle, Florence Monna, Kamil
+Iskra, Pete Beckman:
+_Explicit Data Layout Management for Autotuning Exploration on Complex
+Memory Topologies_.
+Workshop on Memory Centric High Performance Computing (MCHPC 2019), held in
+conjunction with SC 2019, November 2019.
+<!--
+DOI: FIXME,
+-->
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-mchpc-perarnau.pdf)&nbsp;(preprint PDF, 6&nbsp;pages, 215&nbsp;KiB)
+
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-icpp-denoyelle.png)]({{ site.baseurl }}/publications/2019-icpp-denoyelle.pdf)
-Nicolas Denoyelle, Brice Goglin, Emmanuel Jeannot, Thomas Ropars,
+Nicolas Denoyelle, Brice Goglin, Emmanuel Jeannot, Thomas Ropars:
 _Data and Thread Placement in NUMA Architectures: A Statistical Learning Approach_.
 48th International Conference on Parallel Processing (ICPP 2019), August 2019.
-DOI: [10.1145/3337821.3337893](https://doi.org/10.1145/3337821.3337893)
+DOI: [10.1145/3337821.3337893](https://doi.org/10.1145/3337821.3337893),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-icpp-denoyelle.pdf)&nbsp;(preprint PDF, 10&nbsp;pages, 791&nbsp;KiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-ipdps-ramesh.png)]({{ site.baseurl }}/publications/2019-ipdps-ramesh.pdf)
@@ -20,9 +43,7 @@ Beckman:
 _Understanding the Impact of Dynamic Power Capping on Application Progress_.
 33rd IEEE International Parallel and Distributed Processing Symposium
 (IPDPS 2019), pp. 793--804, May 2019.
-<!--
-DOI: [10.1109/IPDPS.2019.00088](https://doi.org/10.1109/IPDPS.2019.00088)
--->
+DOI: [10.1109/IPDPS.2019.00088](https://doi.org/10.1109/IPDPS.2019.00088),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-ipdps-ramesh.pdf)&nbsp;(preprint PDF, 12&nbsp;pages, 1.0&nbsp;MiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2018-icpp-benoit.png)]({{ site.baseurl }}/publications/2018-icpp-benoit.pdf)
@@ -62,7 +83,7 @@ _In Situ Workflows at Exascale: System Software to the Rescue_.
 Workshop on In Situ Infrastructures for Enabling Extreme-scale Analysis and
 Visualization (ISAV 2017), held in conjunction with SC 2017, pp. 22--26,
 November 2017.
-DOI: [10.1145/3144769.3144774](https://doi.org/10.1145/3144769.3144774)
+DOI: [10.1145/3144769.3144774](https://doi.org/10.1145/3144769.3144774),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2017-isav-dreher.pdf)&nbsp;(preprint PDF, 5&nbsp;pages, 375&nbsp;KiB)
 
 <!--

@@ -7,6 +7,16 @@ permalink: /publications/
 Papers
 ------
 
+![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-hpcos-perarnau.png)
+Swann Perarnau, Brian C. Van Essen, Roberto Gioiosa, Kamil Iskra, Maya
+B. Gokhale, Kazutomo Yoshii, Pete Beckman:
+_Argo_.
+Book chapter in: Gerofi, Ishikawa, Riesen, Wisniewski (eds):
+_Operating Systems for Supercomputers and High Performance Computing_.
+High-Performance Computing Series, vol. 1, pp. 199--220.
+Springer Singapore, 2019.
+DOI: [10.1007/978-981-13-6624-6_12](https://doi.org/10.1007/978-981-13-6624-6_12)
+
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-mchpc-peng.png)]({{ site.baseurl }}/publications/2019-mchpc-peng.pdf)
 Ivy B. Peng, Marty McFadden, Eric Green, Keita Iwabuchi, Kai Wu, Dong Li,
 Roger Pearce, Maya B. Gokhale:

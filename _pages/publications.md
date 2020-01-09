@@ -23,9 +23,7 @@ Roger Pearce, Maya B. Gokhale:
 _UMap: Enabling Application-driven Optimizations for Page Management_.
 Workshop on Memory Centric High Performance Computing (MCHPC 2019), held in
 conjunction with SC 2019, November 2019.
-<!--
-DOI: FIXME,
--->
+DOI: [10.1109/MCHPC49590.2019.00017](https://doi.org/10.1109/MCHPC49590.2019.00017),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-mchpc-peng.pdf)&nbsp;(preprint PDF, 8&nbsp;pages, 425&nbsp;KiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-mchpc-perarnau.png)]({{ site.baseurl }}/publications/2019-mchpc-perarnau.pdf)
@@ -35,9 +33,7 @@ _Explicit Data Layout Management for Autotuning Exploration on Complex
 Memory Topologies_.
 Workshop on Memory Centric High Performance Computing (MCHPC 2019), held in
 conjunction with SC 2019, November 2019.
-<!--
-DOI: FIXME,
--->
+DOI: [10.1109/MCHPC49590.2019.00015](https://doi.org/10.1109/MCHPC49590.2019.00015),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-mchpc-perarnau.pdf)&nbsp;(preprint PDF, 6&nbsp;pages, 215&nbsp;KiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-icpp-denoyelle.png)]({{ site.baseurl }}/publications/2019-icpp-denoyelle.pdf)

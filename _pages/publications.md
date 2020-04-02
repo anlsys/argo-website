@@ -7,6 +7,14 @@ permalink: /publications/
 Papers
 ------
 
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2020-physor-denoyelle.png)]({{ site.baseurl }}/publications/2020-physor-denoyelle.pdf)
+Nicolas Denoyelle, John Tramm, Kazutomo Yoshii, Swann Perarnau, Pete Beckman:
+_NUMA-Aware Data Management for Neutron Cross Section Data in Continuous
+Energy Monte Carlo Neutron Transport Simulation_.
+30th Physics of Reactors Conference (PHYSOR 2020): Transition to a Scalable
+Nuclear Future, March-April 2020.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2020-physor-denoyelle.pdf)&nbsp;(preprint PDF, 11&nbsp;pages, 164&nbsp;KiB)
+
 ![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-hpcos-perarnau.png)
 Swann Perarnau, Brian C. Van Essen, Roberto Gioiosa, Kamil Iskra, Maya
 B. Gokhale, Kazutomo Yoshii, Pete Beckman:
@@ -223,6 +231,20 @@ DOI: [10.1109/IC2E.2015.78](https://doi.org/10.1109/IC2E.2015.78),
 
 Posters
 -------
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2020-argo-memory.png)]({{ site.baseurl }}/publications/2020-argo-memory.pdf)
+Nicolas Denoyelle, Swann Perarnau, Brice Videau, Maya Gokhale, Ivy Peng,
+Roger Pearce, Eric Green, Keita Iwabuchi:
+_Management of Deep Memory Hierarchy in the Exascale Era_.
+4th ECP Annual Meeting, February 2020.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2020-argo-memory.pdf)&nbsp;(PDF, 1.2&nbsp;MiB)
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2020-argo-power.png)]({{ site.baseurl }}/publications/2020-argo-power.pdf)
+Valentin Reis, Florence Monna, Swann Perarnau, Kamil Iskra, Kazutomo Yoshii,
+Tapasya Patki, Stephanie Brink, Aniruddha Marathe, Barry Rountree:
+_Resource Partitioning and Power Management in the Exascale Era_.
+4th ECP Annual Meeting, February 2020.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2020-argo-power.pdf)&nbsp;(PDF, 986&nbsp;KiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-isc-marathe.png){: .landscape}]({{ site.baseurl }}/publications/2019-isc-marathe.pdf)
 Aniruddha Marathe, Barry Rountree, Carsten Trinitis, Christopher Cantalupo,

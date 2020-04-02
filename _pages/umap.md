@@ -42,6 +42,6 @@ Docs](https://llnl-umap.readthedocs.io/en/develop/).  For a complete list of
 UMap-related resources, check the [For Developers]({{ site.baseurl
 }}/devel/#umap) page.
 
-_Maya Gokhale, Marty McFadden, Roger Pearce, Eric Green, Keita Iwabuchi
-(LLNL); Kai Wu, Dong Li (UC Merced and LLNL)_
+_Maya Gokhale, Ivy Peng, Abhik Sarkar, Roger Pearce, Keita Iwabuchi (LLNL);
+Kai Wu, Dong Li (UC Merced and LLNL)_
 {: .smaller}

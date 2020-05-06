@@ -24,7 +24,7 @@ permalink: /devel/
 
 #### Variorum:
 
-* [<i class="fas fa-download"></i> **Download the 0.1.0 release**](https://github.com/LLNL/variorum/archive/v0.1.0.tar.gz) (tar.gz source, 3.9&nbsp;MiB)
+* [<i class="fas fa-download"></i> **Download the 0.3.0 release**](https://github.com/LLNL/variorum/archive/v0.3.0.tar.gz) (tar.gz source, 42.9&nbsp;MiB)
 * [<i class="fas fa-download"></i> Release archive](https://github.com/LLNL/variorum/releases)
 * [<i class="fas fa-code-branch"></i> Source code repository on Github](https://github.com/LLNL/variorum)
 * [<i class="fas fa-book"></i> Documentation on Read the Docs](https://variorum.readthedocs.io/en/latest/)

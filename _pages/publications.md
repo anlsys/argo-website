@@ -13,6 +13,7 @@ _NUMA-Aware Data Management for Neutron Cross Section Data in Continuous
 Energy Monte Carlo Neutron Transport Simulation_.
 30th Physics of Reactors Conference (PHYSOR 2020): Transition to a Scalable
 Nuclear Future, March-April 2020.
+[Proceedings page](https://www.physor2020.com/proceedings),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2020-physor-denoyelle.pdf)&nbsp;(preprint PDF, 11&nbsp;pages, 164&nbsp;KiB)
 
 ![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-hpcos-perarnau.png)

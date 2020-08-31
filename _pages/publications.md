@@ -51,13 +51,14 @@ conjunction with SC 2019, November 2019.
 DOI: [10.1109/MCHPC49590.2019.00015](https://doi.org/10.1109/MCHPC49590.2019.00015),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-mchpc-perarnau.pdf)&nbsp;(preprint PDF, 6&nbsp;pages, 215&nbsp;KiB)
 
-![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-works-patki.png)
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-works-patki.png)]({{ site.baseurl }}/publications/2019-works-patki.pdf)
 Tapasya Patki, Zachary Frye, Harsh Bhatia, Francesco Di Natale, James N.
 Glosli, Helgi I. Ing&oacute;lfsson, Barry Rountree:
 _Comparing GPU Power and Frequency Capping: A Case Study with the MuMMI Workflow_.
 14th Workshop on Workflows in Support of Large-Scale Science (WORKS 2019),
-held in conjunction with SC 2019, pp. 793--804, November 2019.
-DOI: [10.1109/WORKS49585.2019.00009](https://doi.org/10.1109/WORKS49585.2019.00009)
+held in conjunction with SC 2019, pp. 31--39, November 2019.
+DOI: [10.1109/WORKS49585.2019.00009](https://doi.org/10.1109/WORKS49585.2019.00009),
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-works-patki.pdf)&nbsp;(preprint PDF, 9&nbsp;pages, 1.7&nbsp;MiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-icpp-denoyelle.png)]({{ site.baseurl }}/publications/2019-icpp-denoyelle.pdf)
 Nicolas Denoyelle, Brice Goglin, Emmanuel Jeannot, Thomas Ropars:

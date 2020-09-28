@@ -7,11 +7,13 @@ permalink: /publications/
 Papers
 ------
 
-<!--
-Ivy B. Peng, R. Pearce, M. B. Gokhale: On the Memory Underutilization:
-Exploring Disaggregated Memory on HPC Systems. IEEE 32nd International Symposium
-on Computer Architecture and High Performance Computing (SBAC-PAD20)
--->
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2020-sbacpad-peng.png)]({{ site.baseurl }}/publications/2020-sbacpad-peng.pdf)
+Ivy Peng, Roger Pearce, Maya Gokhale:
+_On the Memory Underutilization: Exploring Disaggregated Memory on HPC Systems_.
+32nd IEEE International Symposium on Computer Architecture and High
+Performance Computing (SBAC-PAD 2020), pp. 183--190, September 2020.
+<!-- DOI: [10.1109/SBAC-PAD49847.2020.00034](https://doi.org/10.1109/SBAC-PAD49847.2020.00034), -->
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2020-sbacpad-peng.pdf)&nbsp;(preprint PDF, 8&nbsp;pages, 654&nbsp;KiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2020-physor-denoyelle.png)]({{ site.baseurl }}/publications/2020-physor-denoyelle.pdf)
 Nicolas Denoyelle, John Tramm, Kazutomo Yoshii, Swann Perarnau, Pete Beckman:

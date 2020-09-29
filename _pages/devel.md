@@ -12,7 +12,7 @@ permalink: /devel/
 
 ### UMap
 
-* [<i class="fas fa-download"></i> **Download the 2.0.0 release**](https://github.com/LLNL/umap/archive/v2.0.0.tar.gz) (tar.gz source, 99&nbsp;KiB)
+* [<i class="fas fa-download"></i> **Download the 2.1.0 release**](https://github.com/LLNL/umap/archive/v2.1.0.tar.gz) (tar.gz source, 105&nbsp;KiB)
 * [<i class="fas fa-download"></i> Release archive](https://github.com/LLNL/umap/releases)
 * <i class="fas fa-code-branch"></i> Source code repositories on Github:
 [umap](https://github.com/LLNL/umap),
@@ -32,7 +32,7 @@ permalink: /devel/
 
 #### msr-safe:
 
-* [<i class="fas fa-download"></i> **Download the 1.3.0 release**](https://github.com/LLNL/msr-safe/archive/v1.3.0.tar.gz) (tar.gz source, 51&nbsp;KiB)
+* [<i class="fas fa-download"></i> **Download the 1.5.0 release**](https://github.com/LLNL/msr-safe/archive/v1.5.0.tar.gz) (tar.gz source, 53&nbsp;KiB)
 * [<i class="fas fa-download"></i> Release archive](https://github.com/LLNL/msr-safe/releases)
 * [<i class="fas fa-code-branch"></i> Source code repository on Github](https://github.com/LLNL/msr-safe)
 * [<i class="fas fa-bug"></i> Issues database on Github](https://github.com/LLNL/msr-safe/issues)

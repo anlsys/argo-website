@@ -33,6 +33,8 @@ permalink: /team/
 
 {% include mugshot img="rountree.jpg" alt="Barry Rountree" %}
 
+{% include mugshot img="sarkar.jpg" alt="Abhik Sarkar" %}
+
 {% include mugshot img="tramm.jpg" alt="John Tramm" %}
 
 {% include mugshot img="videau.jpg" alt="Brice Videau" %}

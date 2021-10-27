@@ -21,8 +21,6 @@ permalink: /team/
 
 {% include mugshot img="marathe.jpg" alt="Aniruddha Marathe" %}
 
-{% include mugshot img="monna.jpg" alt="Florence Monna" %}
-
 {% include mugshot img="patki.jpg" alt="Tapasya Patki" caption="Tapasya Patki (co-PI)" %}
 
 {% include mugshot img="pearce.jpg" alt="Roger Pearce" %}
@@ -30,8 +28,6 @@ permalink: /team/
 {% include mugshot img="peng.jpg" alt="Ivy Peng" %}
 
 {% include mugshot img="perarnau.jpg" alt="Swann Perarnau" %}
-
-{% include mugshot img="reis.jpg" alt="Valentin Reis" %}
 
 {% include mugshot img="rountree.jpg" alt="Barry Rountree" %}
 
@@ -56,6 +52,10 @@ permalink: /team/
 {% include mugshot img="leon.jpg" alt="Edgar Leon" %}
 
 {% include mugshot img="mcfadden.jpg" alt="Marty McFadden" %}
+
+{% include mugshot img="monna.jpg" alt="Florence Monna" %}
+
+{% include mugshot img="reis.jpg" alt="Valentin Reis" %}
 
 {% include mugshot img="schulz.jpg" alt="Martin Schulz" %}
 

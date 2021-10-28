@@ -7,6 +7,8 @@ permalink: /team/
 
 {% include mugshot img="brink.jpg" alt="Stephanie Brink" %}
 
+{% include mugshot img="daoudi.jpg" alt="Idriss Daoudi" %}
+
 {% include mugshot img="denoyelle.jpg" alt="Nicolas Denoyelle" %}
 
 {% include mugshot img="gokhale.jpg" alt="Maya Gokhale" caption="Maya Gokhale (co-PI)" %}
@@ -20,6 +22,8 @@ permalink: /team/
 {% include mugshot img="lowenthal.jpg" alt="David Lowenthal" %}
 
 {% include mugshot img="marathe.jpg" alt="Aniruddha Marathe" %}
+
+{% include mugshot img="navarro.jpg" alt="John-Luke Navarro" %}
 
 {% include mugshot img="patki.jpg" alt="Tapasya Patki" caption="Tapasya Patki (co-PI)" %}
 

@@ -7,13 +7,37 @@ permalink: /publications/
 Papers
 ------
 
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2021-wsc-ahmed.png)]({{ site.baseurl }}/publications/2021-wsc-ahmed.pdf)
+Kishwar Ahmed, Kazutomo Yoshii, Samia Tasnim:
+_Parallel Application Power and Performance Prediction Modeling Using Simulation_.
+2021 Winter Simulation Conference (WSC 2021), December 2021.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2021-wsc-ahmed.pdf)&nbsp;(preprint PDF, 12&nbsp;pages, 298&nbsp;KiB)
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2021-pmbs-denoyelle.png)]({{ site.baseurl }}/publications/2021-pmbs-denoyelle.pdf)
+Nicolas Denoyelle, Emmanuel Jeannot, Swann Perarnau, Brice Videau, Pete Beckman:
+_Narrowing the Search Space of Applications Mapping on Hierarchical Topologies_.
+12th International Workshop on Performance Modeling, Benchmarking and
+Simulation of High-Performance Computer Systems (PMBS 2021), held in
+conjunction with SC 2021, November 2021.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2021-pmbs-denoyelle.pdf)&nbsp;(preprint PDF, 11&nbsp;pages, 353&nbsp;KiB)
+
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2020-sbacpad-peng.png)]({{ site.baseurl }}/publications/2020-sbacpad-peng.pdf)
 Ivy Peng, Roger Pearce, Maya Gokhale:
 _On the Memory Underutilization: Exploring Disaggregated Memory on HPC Systems_.
 32nd IEEE International Symposium on Computer Architecture and High
 Performance Computing (SBAC-PAD 2020), pp. 183--190, September 2020.
-<!-- DOI: [10.1109/SBAC-PAD49847.2020.00034](https://doi.org/10.1109/SBAC-PAD49847.2020.00034), -->
+DOI: [10.1109/SBAC-PAD49847.2020.00034](https://doi.org/10.1109/SBAC-PAD49847.2020.00034),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2020-sbacpad-peng.pdf)&nbsp;(preprint PDF, 8&nbsp;pages, 654&nbsp;KiB)
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2021-europar-cerf.png)]({{ site.baseurl }}/publications/2021-europar-cerf.pdf)
+Sophie Cerf, Rapha&euml;l Bleuse, Valentin Reis, Swann Perarnau, &Eacute;ric
+Rutten:
+_Sustaining Performance While Reducing Energy Consumption: A Control Theory
+Approach_.
+27th International European Conference on Parallel and Distributed Computing
+(Euro-Par 2021), Springer LNCS 12820 pp. 334--349, August-September 2021.
+DOI: [10.1007/978-3-030-85665-6_21](https://doi.org/10.1007/978-3-030-85665-6_21),
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2021-europar-cerf.pdf)&nbsp;(preprint PDF, 16&nbsp;pages, 1.0&nbsp;MiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2020-physor-denoyelle.png)]({{ site.baseurl }}/publications/2020-physor-denoyelle.pdf)
 Nicolas Denoyelle, John Tramm, Kazutomo Yoshii, Swann Perarnau, Pete Beckman:
@@ -21,7 +45,7 @@ _NUMA-Aware Data Management for Neutron Cross Section Data in Continuous
 Energy Monte Carlo Neutron Transport Simulation_.
 30th Physics of Reactors Conference (PHYSOR 2020): Transition to a Scalable
 Nuclear Future, March-April 2020.
-[Proceedings page](https://www.physor2020.com/proceedings),
+DOI: [10.1051/epjconf/202124704020](https://doi.org/10.1051/epjconf/202124704020),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2020-physor-denoyelle.pdf)&nbsp;(preprint PDF, 11&nbsp;pages, 164&nbsp;KiB)
 
 ![Thumb]({{ site.baseurl }}/assets/images/pubs/2019-hpcos-perarnau.png)
@@ -249,6 +273,20 @@ DOI: [10.1109/IC2E.2015.78](https://doi.org/10.1109/IC2E.2015.78),
 
 Posters
 -------
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2021-argo-memory.png)]({{ site.baseurl }}/publications/2021-argo-memory.pdf)
+Nicolas Denoyelle, Swann Perarnau, Brice Videau, Maya Gokhale, Ivy Peng,
+Roger Pearce, Eric Green, Keita Iwabuchi:
+_Management of Deep Memory Hierarchy in the Exascale Era_.
+5th ECP Annual Meeting, April 2021.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2021-argo-memory.pdf)&nbsp;(PDF, 886&nbsp;KiB)
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2021-argo-power.png)]({{ site.baseurl }}/publications/2021-argo-power.pdf)
+Florence Monna, Swann Perarnau, Kamil Iskra, Kazutomo Yoshii, Pete Beckman,
+Tapasya Patki, Stephanie Brink, Aniruddha Marathe, Barry Rountree:
+_Resource Partitioning and Power Management in the Exascale Era_.
+5th ECP Annual Meeting, April 2021.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2021-argo-power.pdf)&nbsp;(PDF, 912&nbsp;KiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2020-argo-memory.png)]({{ site.baseurl }}/publications/2020-argo-memory.pdf)
 Nicolas Denoyelle, Swann Perarnau, Brice Videau, Maya Gokhale, Ivy Peng,

@@ -2,7 +2,7 @@
 title: Overview
 permalink: /overview/
 feature_row_umap:
-  - image_path: /assets/images/umap-pic.png
+  - image_path: /assets/images/umap-pic-32.png
     alt: "UMap"
     title: "UMap"
     excerpt: "User Level Memory Map (UMap) is a memory map approach to

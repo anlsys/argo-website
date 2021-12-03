@@ -5,7 +5,8 @@ permalink: /devel/
 
 ### AML
 
-* [<i class="fas fa-download"></i> **Download the 0.1.0 release**]({{ site.baseurl }}/downloads/aml-0.1.0.tar.gz) (tar.gz source, 2.6&nbsp;MiB)
+* [<i class="fas fa-download"></i> **Download the 0.2.0 release**](https://github.com/anlsys/aml/releases/download/v0.2.0/aml-0.2.0.tar.gz) (tar.gz source, 1.2&nbsp;MiB)
+* [<i class="fas fa-download"></i> Release archive](https://github.com/anlsys/aml/releases)
 * [<i class="fas fa-code-branch"></i> Source code repository on GitHub](https://github.com/anlsys/aml)
 * [<i class="fas fa-book"></i> Documentation on Read the Docs](https://argo-aml.readthedocs.io/en/latest/)
 * [<i class="fas fa-bug"></i> Issues database on GitHub](https://github.com/anlsys/aml/issues)

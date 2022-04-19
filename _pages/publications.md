@@ -274,6 +274,21 @@ DOI: [10.1109/IC2E.2015.78](https://doi.org/10.1109/IC2E.2015.78),
 Posters
 -------
 
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2022-argo-memory.png)]({{ site.baseurl }}/publications/2022-argo-memory.pdf)
+Swann Perarnau, Brice Videau, Maya Gokhale, Ivy Peng,
+Roger Pearce, Eric Green, Keita Iwabuchi, Abhik Sarkar:
+_Management of Deep Memory Hierarchy in the Exascale Era_.
+6th ECP Annual Meeting, May 2022.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2022-argo-memory.pdf)&nbsp;(PDF, 1.0&nbsp;MiB)
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2022-argo-power.png)]({{ site.baseurl }}/publications/2022-argo-power.pdf)
+Swann Perarnau, Idriss Daoudi, Kamil Iskra, Kazutomo Yoshii, John-Luke
+Navarro, Pete Beckman, Tapasya Patki, Stephanie Brink, Aniruddha Marathe,
+Barry Rountree:
+_Resource Partitioning and Power Management in the Exascale Era_.
+6th ECP Annual Meeting, May 2022.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2022-argo-power.pdf)&nbsp;(PDF, 1.1&nbsp;MiB)
+
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2021-argo-memory.png)]({{ site.baseurl }}/publications/2021-argo-memory.pdf)
 Nicolas Denoyelle, Swann Perarnau, Brice Videau, Maya Gokhale, Ivy Peng,
 Roger Pearce, Eric Green, Keita Iwabuchi:

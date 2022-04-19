@@ -9,8 +9,6 @@ permalink: /team/
 
 {% include mugshot img="daoudi.jpg" alt="Idriss Daoudi" %}
 
-{% include mugshot img="denoyelle.jpg" alt="Nicolas Denoyelle" %}
-
 {% include mugshot img="gokhale.jpg" alt="Maya Gokhale" caption="Maya Gokhale (co-PI)" %}
 
 {% include mugshot img="green.jpg" alt="Eric Green" %}
@@ -48,6 +46,8 @@ permalink: /team/
 ## Former members
 
 {% include mugshot img="bhalachandra.jpg" alt="Sridutt Bhalachandra" %}
+
+{% include mugshot img="denoyelle.jpg" alt="Nicolas Denoyelle" %}
 
 {% include mugshot img="ellsworth.jpg" alt="Daniel Ellsworth" %}
 

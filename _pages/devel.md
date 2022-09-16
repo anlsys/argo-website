@@ -25,7 +25,7 @@ permalink: /devel/
 
 #### Variorum:
 
-* [<i class="fas fa-download"></i> **Download the 0.5.0 release**](https://github.com/LLNL/variorum/archive/v0.5.0.tar.gz) (tar.gz source, 37&nbsp;MiB)
+* [<i class="fas fa-download"></i> **Download the 0.6.0 release**](https://github.com/LLNL/variorum/archive/v0.6.0.tar.gz) (tar.gz source, 38&nbsp;MiB)
 * [<i class="fas fa-download"></i> Release archive](https://github.com/LLNL/variorum/releases)
 * [<i class="fas fa-code-branch"></i> Source code repository on GitHub](https://github.com/LLNL/variorum)
 * [<i class="fas fa-book"></i> Documentation on Read the Docs](https://variorum.readthedocs.io/en/latest/)
@@ -33,7 +33,7 @@ permalink: /devel/
 
 #### msr-safe:
 
-* [<i class="fas fa-download"></i> **Download the 1.5.0 release**](https://github.com/LLNL/msr-safe/archive/v1.5.0.tar.gz) (tar.gz source, 53&nbsp;KiB)
+* [<i class="fas fa-download"></i> **Download the 1.6.0 release**](https://github.com/LLNL/msr-safe/archive/v1.6.0.tar.gz) (tar.gz source, 56&nbsp;KiB)
 * [<i class="fas fa-download"></i> Release archive](https://github.com/LLNL/msr-safe/releases)
 * [<i class="fas fa-code-branch"></i> Source code repository on GitHub](https://github.com/LLNL/msr-safe)
 * [<i class="fas fa-bug"></i> Issues database on GitHub](https://github.com/LLNL/msr-safe/issues)

@@ -7,10 +7,24 @@ permalink: /publications/
 Papers
 ------
 
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2022-ccta-hawila.png)]({{ site.baseurl }}/publications/2022-ccta-hawila.pdf)
+Ismail Hawila, Sophie Cerf, Rapha&euml;l Bleuse, Swann Perarnau, Eric Rutten:
+_Adaptive Power Control for Sober High-Performance Computing_.
+6th IEEE Conference on Control Technology and Applications (CCTA 2022), August 2022.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2022-ccta-hawila.pdf)&nbsp;(preprint PDF, 8&nbsp;pages, 4.1&nbsp;MiB)
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2022-isc-denoyelle.png)]({{ site.baseurl }}/publications/2022-isc-denoyelle.pdf)
+Nicolas Denoyelle, Swann Perarnau, Kamil Iskra, Balazs Gerofi:
+_Rapid Execution Time Estimation for Heterogeneous Memory Systems Through Differential Tracing_.
+37th International Conference on High Performance Computing (ISC 2022), pp. 256--274, May-June 2022.
+DOI: [10.1007/978-3-031-07312-0_13](https://doi.org/10.1007/978-3-031-07312-0_13),
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2022-isc-denoyelle.pdf)&nbsp;(preprint PDF, 19&nbsp;pages, 1.2&nbsp;MiB)
+
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2021-wsc-ahmed.png)]({{ site.baseurl }}/publications/2021-wsc-ahmed.pdf)
 Kishwar Ahmed, Kazutomo Yoshii, Samia Tasnim:
 _Parallel Application Power and Performance Prediction Modeling Using Simulation_.
 2021 Winter Simulation Conference (WSC 2021), December 2021.
+DOI: [10.1109/WSC52266.2021.9715340](https://doi.org/10.1109/WSC52266.2021.9715340),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2021-wsc-ahmed.pdf)&nbsp;(preprint PDF, 12&nbsp;pages, 298&nbsp;KiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2021-pmbs-denoyelle.png)]({{ site.baseurl }}/publications/2021-pmbs-denoyelle.pdf)
@@ -18,7 +32,8 @@ Nicolas Denoyelle, Emmanuel Jeannot, Swann Perarnau, Brice Videau, Pete Beckman:
 _Narrowing the Search Space of Applications Mapping on Hierarchical Topologies_.
 12th International Workshop on Performance Modeling, Benchmarking and
 Simulation of High-Performance Computer Systems (PMBS 2021), held in
-conjunction with SC 2021, November 2021.
+conjunction with SC 2021, pp. 118--128, November 2021.
+DOI: [10.1109/PMBS54543.2021.00018](https://doi.org/10.1109/PMBS54543.2021.00018),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2021-pmbs-denoyelle.pdf)&nbsp;(preprint PDF, 11&nbsp;pages, 353&nbsp;KiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2020-sbacpad-peng.png)]({{ site.baseurl }}/publications/2020-sbacpad-peng.pdf)
@@ -63,7 +78,7 @@ Ivy B. Peng, Marty McFadden, Eric Green, Keita Iwabuchi, Kai Wu, Dong Li,
 Roger Pearce, Maya B. Gokhale:
 _UMap: Enabling Application-driven Optimizations for Page Management_.
 Workshop on Memory Centric High Performance Computing (MCHPC 2019), held in
-conjunction with SC 2019, November 2019.
+conjunction with SC 2019, pp. 71--78, November 2019.
 DOI: [10.1109/MCHPC49590.2019.00017](https://doi.org/10.1109/MCHPC49590.2019.00017),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-mchpc-peng.pdf)&nbsp;(preprint PDF, 8&nbsp;pages, 425&nbsp;KiB)
 
@@ -73,7 +88,7 @@ Iskra, Pete Beckman:
 _Explicit Data Layout Management for Autotuning Exploration on Complex
 Memory Topologies_.
 Workshop on Memory Centric High Performance Computing (MCHPC 2019), held in
-conjunction with SC 2019, November 2019.
+conjunction with SC 2019, pp. 58--63, November 2019.
 DOI: [10.1109/MCHPC49590.2019.00015](https://doi.org/10.1109/MCHPC49590.2019.00015),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2019-mchpc-perarnau.pdf)&nbsp;(preprint PDF, 6&nbsp;pages, 215&nbsp;KiB)
 

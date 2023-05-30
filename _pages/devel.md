@@ -5,7 +5,7 @@ permalink: /devel/
 
 ### AML
 
-* [<i class="fas fa-download"></i> **Download the 0.2.0 release**](https://github.com/anlsys/aml/releases/download/v0.2.0/aml-0.2.0.tar.gz) (tar.gz source, 1.2&nbsp;MiB)
+* [<i class="fas fa-download"></i> **Download the 0.2.1 release**](https://github.com/anlsys/aml/releases/download/v0.2.1/aml-0.2.1.tar.gz) (tar.gz source, 1.2&nbsp;MiB)
 * [<i class="fas fa-download"></i> Release archive](https://github.com/anlsys/aml/releases)
 * [<i class="fas fa-code-branch"></i> Source code repository on GitHub](https://github.com/anlsys/aml)
 * [<i class="fas fa-book"></i> Documentation on Read the Docs](https://argo-aml.readthedocs.io/en/latest/)
@@ -13,7 +13,7 @@ permalink: /devel/
 
 ### UMap
 
-* [<i class="fas fa-download"></i> **Download the 2.1.0 release**](https://github.com/LLNL/umap/archive/v2.1.0.tar.gz) (tar.gz source, 105&nbsp;KiB)
+* [<i class="fas fa-download"></i> **Download the 2.1.1 release**](https://github.com/LLNL/umap/archive/v2.1.1.tar.gz) (tar.gz source, 211&nbsp;KiB)
 * [<i class="fas fa-download"></i> Release archive](https://github.com/LLNL/umap/releases)
 * <i class="fas fa-code-branch"></i> Source code repositories on GitHub:
 [umap](https://github.com/LLNL/umap),
@@ -33,7 +33,7 @@ permalink: /devel/
 
 #### msr-safe:
 
-* [<i class="fas fa-download"></i> **Download the 1.6.0 release**](https://github.com/LLNL/msr-safe/archive/v1.6.0.tar.gz) (tar.gz source, 56&nbsp;KiB)
+* [<i class="fas fa-download"></i> **Download the 1.7.0 release**](https://github.com/LLNL/msr-safe/archive/v1.7.0.tar.gz) (tar.gz source, 45&nbsp;KiB)
 * [<i class="fas fa-download"></i> Release archive](https://github.com/LLNL/msr-safe/releases)
 * [<i class="fas fa-code-branch"></i> Source code repository on GitHub](https://github.com/LLNL/msr-safe)
 * [<i class="fas fa-bug"></i> Issues database on GitHub](https://github.com/LLNL/msr-safe/issues)

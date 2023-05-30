@@ -289,6 +289,16 @@ DOI: [10.1109/IC2E.2015.78](https://doi.org/10.1109/IC2E.2015.78),
 Posters
 -------
 
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2023-argo-then-now.png)]({{ site.baseurl }}/publications/2023-argo-then-now.pdf)
+Pete Beckman, Idriss Daoudi, Rinku Gupta, Kamil Iskra, John-Luke Navarro,
+Swann Perarnau, John Tramm, Brice Videau, Kazutomo Yoshii, Maya Gokhale,
+Eric Green, Keita Iwabuchi, Roger Pearce, Ivy Peng, Abhik Sarkar, Tapasya
+Patki, Stephanie Brink, Aniruddha Marathe, Barry Rountree, Kathleen Shoga,
+David Lowenthal:
+_Argo: Then and Now_.
+7th ECP Annual Meeting, January 2023.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2023-argo-then-now.pdf)&nbsp;(PDF, 1.4&nbsp;MiB)
+
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2022-argo-memory.png)]({{ site.baseurl }}/publications/2022-argo-memory.pdf)
 Swann Perarnau, Brice Videau, Maya Gokhale, Ivy Peng,
 Roger Pearce, Eric Green, Keita Iwabuchi, Abhik Sarkar:

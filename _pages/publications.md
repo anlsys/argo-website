@@ -10,7 +10,8 @@ Papers
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2022-ccta-hawila.png)]({{ site.baseurl }}/publications/2022-ccta-hawila.pdf)
 Ismail Hawila, Sophie Cerf, Rapha&euml;l Bleuse, Swann Perarnau, Eric Rutten:
 _Adaptive Power Control for Sober High-Performance Computing_.
-6th IEEE Conference on Control Technology and Applications (CCTA 2022), August 2022.
+6th IEEE Conference on Control Technology and Applications (CCTA 2022), pp. 403--410, August 2022.
+DOI: [10.1109/CCTA49430.2022.9966115](https://doi.org/10.1109/CCTA49430.2022.9966115),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2022-ccta-hawila.pdf)&nbsp;(preprint PDF, 8&nbsp;pages, 4.1&nbsp;MiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2022-isc-denoyelle.png)]({{ site.baseurl }}/publications/2022-isc-denoyelle.pdf)
@@ -19,6 +20,14 @@ _Rapid Execution Time Estimation for Heterogeneous Memory Systems Through Differ
 37th International Conference on High Performance Computing (ISC 2022), pp. 256--274, May-June 2022.
 DOI: [10.1007/978-3-031-07312-0_13](https://doi.org/10.1007/978-3-031-07312-0_13),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2022-isc-denoyelle.pdf)&nbsp;(preprint PDF, 19&nbsp;pages, 1.2&nbsp;MiB)
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2022-tpds-peng.png)]({{ site.baseurl }}/publications/2022-tpds-peng.pdf)
+Ivy B. Peng, Maya B. Gokhale, Karim Youssef, Keita Iwabuchi, Roger Pearce:
+_Enabling Scalable and Extensible Memory-Mapped Datastores in Userspace_.
+IEEE Transactions on Parallel and Distributed Systems, vol. 33, no. 4,
+pp. 866--877, April 2022.
+DOI: [10.1109/tpds.2021.3086302](https://doi.org/10.1109/tpds.2021.3086302),
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2022-tpds-peng.pdf)&nbsp;(preprint PDF, 12&nbsp;pages, 2.6&nbsp;MiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2021-wsc-ahmed.png)]({{ site.baseurl }}/publications/2021-wsc-ahmed.pdf)
 Kishwar Ahmed, Kazutomo Yoshii, Samia Tasnim:
@@ -36,14 +45,6 @@ conjunction with SC 2021, pp. 118--128, November 2021.
 DOI: [10.1109/PMBS54543.2021.00018](https://doi.org/10.1109/PMBS54543.2021.00018),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2021-pmbs-denoyelle.pdf)&nbsp;(preprint PDF, 11&nbsp;pages, 353&nbsp;KiB)
 
-[![Thumb]({{ site.baseurl }}/assets/images/pubs/2020-sbacpad-peng.png)]({{ site.baseurl }}/publications/2020-sbacpad-peng.pdf)
-Ivy Peng, Roger Pearce, Maya Gokhale:
-_On the Memory Underutilization: Exploring Disaggregated Memory on HPC Systems_.
-32nd IEEE International Symposium on Computer Architecture and High
-Performance Computing (SBAC-PAD 2020), pp. 183--190, September 2020.
-DOI: [10.1109/SBAC-PAD49847.2020.00034](https://doi.org/10.1109/SBAC-PAD49847.2020.00034),
-[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2020-sbacpad-peng.pdf)&nbsp;(preprint PDF, 8&nbsp;pages, 654&nbsp;KiB)
-
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2021-europar-cerf.png)]({{ site.baseurl }}/publications/2021-europar-cerf.pdf)
 Sophie Cerf, Rapha&euml;l Bleuse, Valentin Reis, Swann Perarnau, &Eacute;ric
 Rutten:
@@ -53,6 +54,14 @@ Approach_.
 (Euro-Par 2021), Springer LNCS 12820 pp. 334--349, August-September 2021.
 DOI: [10.1007/978-3-030-85665-6_21](https://doi.org/10.1007/978-3-030-85665-6_21),
 [<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2021-europar-cerf.pdf)&nbsp;(preprint PDF, 16&nbsp;pages, 1.0&nbsp;MiB)
+
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2020-sbacpad-peng.png)]({{ site.baseurl }}/publications/2020-sbacpad-peng.pdf)
+Ivy Peng, Roger Pearce, Maya Gokhale:
+_On the Memory Underutilization: Exploring Disaggregated Memory on HPC Systems_.
+32nd IEEE International Symposium on Computer Architecture and High
+Performance Computing (SBAC-PAD 2020), pp. 183--190, September 2020.
+DOI: [10.1109/SBAC-PAD49847.2020.00034](https://doi.org/10.1109/SBAC-PAD49847.2020.00034),
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2020-sbacpad-peng.pdf)&nbsp;(preprint PDF, 8&nbsp;pages, 654&nbsp;KiB)
 
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2020-physor-denoyelle.png)]({{ site.baseurl }}/publications/2020-physor-denoyelle.pdf)
 Nicolas Denoyelle, John Tramm, Kazutomo Yoshii, Swann Perarnau, Pete Beckman:

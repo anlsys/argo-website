@@ -23,3 +23,5 @@ gem "minimal-mistakes-jekyll"
 #end
 
 gem "jemoji", "~> 0.11.1"
+
+gem "rexml", "~> 3.2.5"

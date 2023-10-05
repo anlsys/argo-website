@@ -89,6 +89,5 @@ Docs](https://nrm.readthedocs.io/en/latest/).  For a complete list of
 NRM-related resources, check the [For Developers]({{ site.baseurl
 }}/devel/#nrm) page.
 
-_Pete Beckman, Kamil Iskra, Florence Monna, Swann Perarnau, Valentin Reis,
-Kazutomo Yoshii (ANL)_
+_Swann Perarnau, John-Luke Navarro, Kazutomo Yoshii, Kamil Iskra, Pete Beckman (ANL)_
 {: .smaller .clear}

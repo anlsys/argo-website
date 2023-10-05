@@ -49,5 +49,5 @@ Docs](https://argo-aml.readthedocs.io/en/latest/).  For a complete list of
 AML-related resources, check the [For Developers]({{ site.baseurl
 }}/devel/#aml) page.
 
-_Nicolas Denoyelle, Swann Perarnau, Brice Videau (ANL)_
+_Swann Perarnau, Brice Videau (ANL)_
 {: .smaller}

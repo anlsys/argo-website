@@ -66,11 +66,8 @@ permalink: /devel/
 
 ### NRM
 
-* <i class="fas fa-download"></i> **Download the 0.1.0 release**:
-[nrm]({{ site.baseurl }}/downloads/nrm-0.1.0.tar.gz) (tar.gz source, 227&nbsp;KiB),
-[libnrm]({{ site.baseurl }}/downloads/libnrm-0.1.0.tar.gz) (tar.gz source, 10&nbsp;KiB)
 * <i class="fas fa-code-branch"></i> Source code repositories on GitHub:
-[nrm-python](https://github.com/anlsys/nrm-python),
-[nrm-core](https://github.com/anlsys/nrm-core),
-[libnrm](https://github.com/anlsys/libnrm)
-* [<i class="fas fa-book"></i> Documentation on Read the Docs](https://nrm.readthedocs.io/en/main/)
+[libnrm](https://github.com/anlsys/libnrm),
+[nrm-extra](https://github.com/anlsys/nrm-extra)
+* [<i class="fas fa-book"></i> Documentation on Read the Docs](https://nrm.readthedocs.io/en/latest/)
+* [<i class="fas fa-bug"></i> Issues database on GitHub](https://github.com/anlsys/libnrm/issues)

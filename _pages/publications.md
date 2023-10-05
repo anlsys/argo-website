@@ -7,6 +7,12 @@ permalink: /publications/
 Papers
 ------
 
+[![Thumb]({{ site.baseurl }}/assets/images/pubs/2023-ic2e-raj.png)]({{ site.baseurl }}/publications/2023-ic2e-raj.pdf)
+Akhilesh Raj, Swann Perarnau, Aniruddha Gokhale:
+_A Reinforcement Learning Approach for Performance-aware Reduction in Power Consumption of Data Center Compute Nodes_.
+11th IEEE International Conference on Cloud Engineeering (IC2E 2023), September 2023.
+[<i class="fas fa-download" title="Download"></i>]({{ site.baseurl }}/publications/2023-ic2e-raj.pdf)&nbsp;(preprint PDF, 10&nbsp;pages, 386&nbsp;KiB)
+
 [![Thumb]({{ site.baseurl }}/assets/images/pubs/2022-ccta-hawila.png)]({{ site.baseurl }}/publications/2022-ccta-hawila.pdf)
 Ismail Hawila, Sophie Cerf, Rapha&euml;l Bleuse, Swann Perarnau, Eric Rutten:
 _Adaptive Power Control for Sober High-Performance Computing_.
